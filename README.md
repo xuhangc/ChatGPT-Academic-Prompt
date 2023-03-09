@@ -31,6 +31,8 @@ Write an outline for the following article:
 
 Summarize article for me based on the following content:
 
+Write an academic summary for the following content:
+
 ## Email Writing
 Write me a formal email to recipient about purpose. 
 
