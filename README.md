@@ -4,6 +4,8 @@
 
 [ChatPDF](https://www.chatpdf.com/)
 
+[SCISPACE](https://typeset.io/)
+
 [FreeGPT](https://freegpt.one/)
 
 [Poe](https://poe.com/chatgpt)
