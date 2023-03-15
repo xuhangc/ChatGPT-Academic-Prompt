@@ -2,6 +2,8 @@
 
 ## Different (Chat)GPT
 
+[chathub](https://chathub.gg/)
+
 [ChatPDF](https://www.chatpdf.com/)
 
 [SCISPACE](https://typeset.io/)
