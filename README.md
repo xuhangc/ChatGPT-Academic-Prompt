@@ -20,6 +20,8 @@
 
 [Elicit](https://elicit.org/)
 
+[chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+
 New Bing
 
 ## Academic Writing
