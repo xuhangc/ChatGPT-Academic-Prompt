@@ -16,6 +16,8 @@
 
 [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
+[ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+
 [OpenAI-Translator](https://github.com/yetone/openai-translator)
 
 [Elicit](https://elicit.org/)
