@@ -20,6 +20,8 @@
 
 [ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
 
+[BriefGPT](https://briefgpt.xyz/)
+
 [OpenAI-Translator](https://github.com/yetone/openai-translator)
 
 [Elicit](https://elicit.org/)
