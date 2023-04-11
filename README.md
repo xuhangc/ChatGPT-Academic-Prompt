@@ -18,6 +18,8 @@
 
 [ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
 
+[ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+
 [OpenAI-Translator](https://github.com/yetone/openai-translator)
 
 [Elicit](https://elicit.org/)
