@@ -30,6 +30,8 @@
 
 [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
+[Auto-Draft](https://github.com/CCCBora/auto-draft)
+
 New Bing
 
 ## Academic Writing
