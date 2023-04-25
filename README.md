@@ -16,6 +16,8 @@
 
 [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
+[ChatOpenReview](https://github.com/kaixindelele/ChatOpenReview)
+
 [ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
 
 [ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
