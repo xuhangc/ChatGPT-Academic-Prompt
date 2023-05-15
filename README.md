@@ -37,6 +37,9 @@
 New Bing
 
 ## Academic Writing
+
+[ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
+
 Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.
 
 Please proofread and polish the passage from an academic angle and highlight the modification:
