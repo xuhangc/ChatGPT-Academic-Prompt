@@ -32,6 +32,8 @@
 
 [Auto-Draft](https://github.com/CCCBora/auto-draft)
 
+[ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
+
 New Bing
 
 ## Academic Writing
