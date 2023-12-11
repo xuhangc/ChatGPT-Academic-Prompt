@@ -2,7 +2,7 @@
 
 ## Different (Chat)GPT
 
-[chathub](https://chathub.gg/)
+[Leaked prompts](https://github.com/linexjlin/GPTs)
 
 [ChatPDF](https://www.chatpdf.com/)
 
