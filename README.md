@@ -42,6 +42,8 @@ New Bing
 
 Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.
 
+The attachment is my article, my main idea is xxx. I plan to submit to xxx. Help me make the title and make it align more closely with the journal scope
+
 I would like to enlist your services as an academic writing consultant to enhance the quality of my writing. Specifically, I will provide you with a text that requires refinement, and you will augment it with more sophisticated language and sentence structures appropriate for academic writing. It is imperative that the fundamental essence of the text remains unaltered, including any LaTeX commands. I kindly request that you provide me solely with the improved version of the text, without any additional explanations, while preserving all the LaTeX commands in their original format. In the event that I incorporate Chinese words or phrases in the text, please ensure that they are translated into English and seamlessly integrated within the context. Please following the writing style of top AI conferences, such as CVPR, ICCV, ICML and NeuralIPS.
 
 The following section is a abstract part of my xxx paper, please polish it and make it more logical and inter-connected, add a sentence to bridge the gap between the influcence of xxx on xxx and the critique of current methods, specificaaly detailing common limitations (e.g. xxx) to enhance argument flow and context clarity:
