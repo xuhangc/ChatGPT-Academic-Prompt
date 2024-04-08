@@ -40,6 +40,8 @@ New Bing
 
 [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 
+generate latex psudo-algorithm for the following pytorch code, focus on the major steps
+
 Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.
 
 The attachment is my article, my main idea is xxx. I plan to submit to xxx. Help me make the title and make it align more closely with the journal scope
