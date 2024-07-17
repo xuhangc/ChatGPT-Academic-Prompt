@@ -108,7 +108,7 @@ https://owl.purdue.edu/owl/research_and_citation/asa_style/references_page_forma
 https://owl.purdue.edu/owl/research_and_citation/asa_style/manuscript_writing_style.html
 https://lib.taftcollege.edu/ld.php?content_id=36960838
 
-
+The following section is my paper's experiment part, polish the whole section, especially the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Make the whole section more logical and interconnected and concise, omit unnecessary details, keep latex commands:
 
 Please proofread and polish the passage from an academic angle and highlight the modification:
 
