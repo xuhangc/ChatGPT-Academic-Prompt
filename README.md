@@ -40,6 +40,8 @@ New Bing
 
 [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
 
+I am going to submit the attached paper to a top AI conference such as CVPR, ICCV, ICML and NeuralIPS, however, the model name is too simple and normal, please help me rename it with like academic jargon with better professional and sophisticated taste and try to avoid simple and easy terms, please maintain a formal tone suitable for top AI conferences and journals:
+
 Generate latex psudo-algorithm based on the following pytorch code, focus on the major steps in the module:
 
 Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table.
